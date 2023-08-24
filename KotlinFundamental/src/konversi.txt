@@ -1,0 +1,17 @@
+toByte(): Byte
+
+toShort(): Short
+
+toInt(): Int
+
+toLong(): Long
+
+toFloat(): Float
+
+toDouble(): Double
+
+toChar(): Char
+
+toString(): String
+
+toIntOrNull(): IntOrNull
